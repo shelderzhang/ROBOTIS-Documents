@@ -1,6 +1,6 @@
 # ROBOTIS-Documents
 
-ROBOTIS Documents (Guides &amp; Tutorials)
+ROBOTIS Documents (Manuals &amp; Tutorials)
 
 The main page of the ROBOTIS-Documents repositories.
 
